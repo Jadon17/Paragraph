@@ -1,0 +1,35 @@
+body {
+    background-color: crimson;
+
+}
+
+button {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+input {
+    font-size: 19px;
+    font-family: 'Staatliches', cursive;
+}
+
+input::placeholder {
+    font-family: 'Permanent Marker', cursive;
+    color: cornflowerblue;
+}
+
+div {
+    border-style: solid;
+    border-color: black;
+    margin-top: 15px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: 'Staatliches', cursive;
+}
+
+span {
+    font-size: 19px;
+}
